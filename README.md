@@ -1,2 +1,2 @@
-# flask-mongo-docker
+# Geeta
 Basic Pythin Flask, Pymongo, Mongo setup using Docker
